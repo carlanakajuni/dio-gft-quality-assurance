@@ -1,4 +1,4 @@
-![](C:\Users\carla\dio-gft\gft-logo.png)
+![](C:\Users\carla\dio-gft\dio-gft-quality-assurance\gft-logo.png)
 
 
 
