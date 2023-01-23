@@ -19,5 +19,5 @@ Repositório destinado ao bootcamp de imersão (103 hrs) à QA com diversos proj
 
 #### - Criando seu primeiro Repositório no GitHub para Compartilhar Seu Progresso
 
-​	[:heavy_check_mark:] Conhecimento Básico em Git e GitHub
+- [x] Conhecimento Básico em Git e GitHub
 
