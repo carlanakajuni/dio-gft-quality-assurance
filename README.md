@@ -8,7 +8,7 @@ Repositório destinado ao bootcamp de imersão (103 hrs) à QA com diversos proj
 
 #### - Funcional - SwagLabs
 
-	 - [ ] PDF: Um plano de fluxo de trabalho de desenvolvimeto e do ciclo de vida do bug conforme explicado
+  - [ ] PDF: Um plano de fluxo de trabalho de desenvolvimeto e do ciclo de vida do bug conforme explicado
   - [ ] PDF: Um documento contendo no mínimo 2 User Stories pensadas e criadas por mim
   - Documentos de teste gerados no processo de estudo?
     - [ ] Mind-map de pelo menos 1 User Story
@@ -20,4 +20,10 @@ Repositório destinado ao bootcamp de imersão (103 hrs) à QA com diversos proj
 #### - Criando seu primeiro Repositório no GitHub para Compartilhar Seu Progresso
 
 - [x] Conhecimento Básico em Git e GitHub
+
+
+
+#### - Programação Orientada a Objetos (POO) - Abstraindo um Bootcamp Usando Orientação a Objetos em Java
+
+- [x] Desafio em Java contendo: Abstração e encapsulamento, Herança e polimorfismo, e classes de domínio
 
